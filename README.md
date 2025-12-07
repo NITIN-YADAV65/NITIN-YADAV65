@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nitin+Yadav;Frontend+Developer+from+India;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nitin+Yadav;Frontend+Developer+from+India;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <p align="center">
